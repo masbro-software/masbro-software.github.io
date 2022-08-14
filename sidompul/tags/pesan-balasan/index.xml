@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pesan balasan on SiDompul - Auto TRX</title>
+    <link>https://masbro-software.github.io/sidompul/tags/pesan-balasan/</link>
+    <description>Recent content in pesan balasan on SiDompul - Auto TRX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 20:43:27 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/sidompul/tags/pesan-balasan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pesan Balasan</title>
+      <link>https://masbro-software.github.io/sidompul/cara-trx/pesan-balasan/</link>
+      <pubDate>Sun, 19 Apr 2020 20:43:27 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/cara-trx/pesan-balasan/</guid>
+      <description>Pesan Balasan Sedang Di Proses (tidak bisa diulang) Pesan pulsa#5000.6287838161111 sedang diproses. RefID:3,22/11/2020 10:20:41 Pesan paket#DP1VOIPN.6287838161111 sedang diproses. RefID:4,22/11/2020 10:24:05 Trx RefID:4, paket#DP1VOIPN.6287838161111, balasan: Transaksi sedang di proses.,22/11/2020 10:24:06 (menunggu balasan sms dari server) Pesan Balasan Sukses (tidak bisa diulang) Trx RefID:4, pulsa#5000.08385364111, SUKSES, balasan: Transaksi dgn No. TKXL0525347147 berhasil utk pengisian pulsa ke 628385364111 sebesar 5000 . Sisa Dompet Pulsa Anda skrg: 1030. Pemotongan saldo rupiah dompul SUKSES untuk Paket Internet BRONET 24Jam 300MB, 7hr, Rp9800 Paket Internet BRONET 24Jam 300MB, 7hr, Rp9800 no.</description>
+    </item>
+    
+  </channel>
+</rss>

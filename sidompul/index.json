@@ -1,0 +1,260 @@
+[
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/cara-ganti-akun-pengirim/",
+	"title": "Cara Ganti Akun Pengirim",
+	"tags": [],
+	"description": "",
+	"content": "1. Buka menu SETTING (pastikan proses TRX tidak kondisi berjalan). Buka tab UMUM 2. Ganti dengan akun pengirim baru pada nomor 2  3. Klik tombol SIMPAN 4. Buka PIDGIN, kemudian buka menu Tools -\u0026gt; Plugins  5. Pilih menu __XMPP Gateway__SIDOMPUl sesuai gambar:  6. Klik tombol Configure di sebelah bawah jendela:  7. Ganti dengan akun pengirim yang baru:  8. Klik tombol Close Pastikan kedua akun penerima dan pengirim sudah menjadi teman/ Friend. Untuk caranya, sesuaikan dengan software server pulsa anda.\n\r"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-log/",
+	"title": "Tab Log",
+	"tags": [],
+	"description": "",
+	"content": " Disini akan tampil log/ catatan proses dari program   "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/cara-trx/format-transaksi/",
+	"title": "Format Transaksi",
+	"tags": ["transaksi", "format transaksi"],
+	"description": "",
+	"content": "Transaksi Pulsa Format transaksi: pulsa#DENOM.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:\npulsa#5000.08111111@123 pulsa#1000.08111111 pulsa#25000.08111111 pulsa#5000.08111111@123.5200 Contoh untuk otomax: pulsa#50000.[tujuan]@[trxid].\nTransaksi Paket Data Format transaksi: paket#KODE-PRODUK.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:\npaket#NA571.08111111 paket#NBR1.08111111 paket#NBR1.08111111@1234.20000 Contoh untuk otomax: paket#KODE-PRODUK.[tujuan]@[trxid]. Default status adalah Sukses (trx ini masih menunggu respons balasan dari server, cek SMS/ Inbox untuk detail status trx)\nDarimana asal KODE-PRODUK ? Cek melalui menu Tab Tools -\u0026gt; Produk, bagian product_code.\n Tab Tools -\u0026gt; Produk   Transaksi Transfer Kuota Kode voucher/ perdana disimpan di addon Format transaksi: transfer-kuota#besar-kuota.NO-HP@TRX-ID. Nilai TRX-ID bisa tidak digunakan. Contoh:\ntransfer-kuota#3,5G.08111111@123 transfer-kuota#6G.08111111 transfer-kuota#11G.08111111 transfer-kuota#21G.08111111 transfer-kuota#31G.08111111 transfer-kuota-hybrid#3,5G.08111111 transfer-kuota-hybrid#6G.08111111 transfer-kuota-hybrid#11G.08111111 transfer-kuota-hybrid#21G.08111111 transfer-kuota-hybrid#31G.08111111 Kode voucher/ perdana TIDAK disimpan di addon (di kirim dari server pulsa) Format transaksi voucher biasa: transfer-kuota-langsung#KODE_VOUCHER.NO-HP@TRX-ID.\nFormat transaksi voucher hybrid: transfer-kuota-langsung#KODE_VOUCHER#NOMER_PERDANA.NO-HP@TRX-ID. Nilai TRX-ID bisa tidak digunakan. Contoh:\ntransfer-kuota-langsung#KODE_VOUCHER.08111111 transfer-kuota-hybrid-langsung#KODE_VOUCHER#NOMER_PERDANA.08111111 "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/setting/tab-xmpp/",
+	"title": "Tab XMPP",
+	"tags": [],
+	"description": "",
+	"content": "Penjelasan Nomor  Akun Jabber/ XMPP penerima (yang login di komputer terinstall digbot) Akun Jabber/ XMPP pengirim (yang login di software pulsa/ server)  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/overview/",
+	"title": "Overview",
+	"tags": [],
+	"description": "",
+	"content": "Overview SiDompul Fitur\n Unlimited Account Sidompul, transaksi XL/ Axis Trx pulsa, paket dan transfer kuota voucher Bisa transaksi menggunakan kode voucher dari server/ menyimpan kode voucher di addon SiDompul Batasan harga maximal untuk trx pulsa dan paket Bisa trx nomor sama dalam 1 hari dengan trxid Trx via jabber / xmpp, tidak harus 1 komputer dengan server pulsa Pengaman batasan pesan sama 5 menit, 1 jam, 3 jam dan hari yang sama Pencarian nomor di riwayat trx Pencarian harga paket, status package dan voucher  \r\rBeli Sekarang\r\r\nKebutuhan Sistem\n Komputer dengan OS Windows 7/ 8/ 10. RAM minimal 4 GB. Ruang hardisk kosong minimal 500 MB. Koneksi internet stabil. Modem Wavecom/ sejenis (bila ingin mendapatkan laporan trx via SMS)  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/cara-ganti-akun-penerima/",
+	"title": "Cara Ganti Akun Penerima",
+	"tags": [],
+	"description": "",
+	"content": "1. Buka menu SETTING (pastikan proses TRX tidak kondisi berjalan). Buka tab UMUM 2. Ganti dengan akun penerima baru pada nomor 1  3. Klik tombol SIMPAN 4. Buka PIDGIN, kemudian buka menu Accounts -\u0026gt; Manage Accounts  5. Bila akun jabber/ XMPP sudah pernah login di PIDGIN, silahkan centang akun penerima yang baru, kemudian klik Close  6. Bila akun jabber/ XMPP belum ada di PIDGIN, klik menu Add 7. Dengan asumsi akun jabber/ XMPP penerima baru adalah halo@jabber.com, berikut gambar cara setting: 8. Klik Add untuk menyimpan akun. 9. Untuk cek apakah pengisian data akun sudah benar/ akun sudah online, klik menu Account. Tanda kotak merupakan akun yang sedang online di PIDGIN  Pastikan kedua akun penerima dan pengirim sudah menjadi teman/ Friend. Untuk caranya, sesuaikan dengan software server pulsa anda.\n\r"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-trx/",
+	"title": "Tab TRX",
+	"tags": [],
+	"description": "",
+	"content": " Pada tab ini, anda dapat mengetahui transaksi yang sedang berjalan/ telah selesai. Tersedia pilihan pencarian berdasarkan status transaksi dan pencarian berdasarkan keyword.\nKlik kanan pada baris tabel untuk pilihan menu:\n copy, untuk menyalin nilai kotak tabel ke clipboard ulang, untuk proses ulang transaksi sukseskan, untuk mengubah status transaksi menjadi sukses gagalkan, untuk mengubah status transaksi menjadi gagal  Data yang tampil adalah 33 data transaksi terakhir.\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/cara-trx/pesan-balasan/",
+	"title": "Pesan Balasan",
+	"tags": ["transaksi", "pesan balasan"],
+	"description": "",
+	"content": "Pesan Balasan Sedang Di Proses (tidak bisa diulang) Pesan pulsa#5000.6287838161111 sedang diproses. RefID:3,22/11/2020 10:20:41 Pesan paket#DP1VOIPN.6287838161111 sedang diproses. RefID:4,22/11/2020 10:24:05 Trx RefID:4, paket#DP1VOIPN.6287838161111, balasan: Transaksi sedang di proses.,22/11/2020 10:24:06 (menunggu balasan sms dari server) Pesan Balasan Sukses (tidak bisa diulang) Trx RefID:4, pulsa#5000.08385364111, SUKSES, balasan: Transaksi dgn No. TKXL0525347147 berhasil utk pengisian pulsa ke 628385364111 sebesar 5000 . Sisa Dompet Pulsa Anda skrg: 1030. Pemotongan saldo rupiah dompul SUKSES untuk Paket Internet BRONET 24Jam 300MB, 7hr, Rp9800 Paket Internet BRONET 24Jam 300MB, 7hr, Rp9800 no. 6283816000010 telah berhasil diaktifkan. Terima kasih atas kerjasama Anda. Info 817 Pkt BRONET 24Jam 2GB, 30hr, Rp29900 no. 6285914839111 sudah berhasil diaktifkan. Terima kasih atas kerjasamanya. Info 838 Pemotongan saldo dompul BERHASIL (Rp25900) utk BRONET 24Jam 2GB, 30hr, Rp29900 ke 6285914839111 TrxID 630857908. Sisa saldo Dompul 736  Paket Xtra Combo Lite 3.5GB, 30hr sukses terkirim ke 6285914839111 tgl 08-Jul-2019 jam 10:31. Info 817 Pesan Balasan Gagal Trx RefID:6, pulsa#5000.08385364898, GAGAL, balasan: Transaction failed. The number you entered 628385364898 has not been activated. Trx RefID:6, pulsa#5000.08385364898, GAGAL, balasan: Harga tidak cocok. Expect: 10000, current: 14000 Trx RefID:6, pulsa#5000X.08385364898, GAGAL, balasan: Produk atau nomor HP tidak valid! Trx RefID:5, pulsa#5000.08385364898, GAGAL, balasan: Transaction failed. Your Dompul balance is insufficient. Pendaftaran untuk no. 6283816000010 GAGAL. Info lebih lanjut hubungi 838 Maaf, kode voucher yang anda masukan salah. Info 817 Mohon maaf transfer paket saat ini tidak dapat diproses, silahkan coba beberapa saat lagi. Pendaftaran GAGAL. Nomor 62838533333 belum aktif. Silakan melakukan aktifasi nomor terlebih dahulu. Pendaftaran untuk no. 6281915433333 BELUM BERHASIL. Info lebih lanjut hubungi 838 Maaf, permintaan Anda tdk dpt diproses krn Anda sdh terdaftar di Pkt Kapan Aja Nelp. Cek paket di *123*7#. Info 817 Mohon maaf, saat ini promo paket belum tersedia untuk nomor 6281 Saat ini Paket yang Anda beli tidak tersedia di area Anda. Silahkan pilih Paket lain nya. Info 817  {\u0026#34;statusCode\u0026#34;:500,\u0026#34;statusMessage\u0026#34;:\u0026#34;Server Error\u0026#34;,\u0026#34;statusDescription\u0026#34;:\u0026#34;An error occurred on the server\u0026#34;,\u0026#34;result\u0026#34;:{\u0026#34;errorCode\u0026#34;:\u0026#34;99\u0026#34;,\u0026#34;errorMessage\u0026#34;:\u0026#34;Something went wrong, please try again\u0026#34;}}, 26/06/2019 10:23:45 Pesan Balasan Timeout ...... TRX TERLALU LAMA, ANTRIAN DIJALANKAN LAGI,11/04/2020 20:19:08 Pesan ini berarti software tidak mendapat response selama +- 60 detik. Bisa dikarenakan jaringan internet yang tidak stabil/ server gangguan/ sibuk. Untuk pesan dengan tipe ini, anda harus cek manual status laporan pulsa/ paket untuk nomor dan produk tersebut. Untuk proses ulang/ batalkan/ sukseskan buka tab TRX, klik kanan data yang akan diulang kemudian pilih aksi yang diinginkan. Bila ini terjadi sewaktu proses trx transfer kuota, maka status kode voucher yang digunakan untuk trx tersebut akan berhenti di Proses. Trx tidak bisa ditembak ulang sebelum dibatalkan manual.\nPesan Balasan Timeout Voucher TRX: RefID: 19,transfer-kuota#6G.0859347xxx TERLALU LAMA, Tidak ada SMS balasan transfer kuota selama masa tunggu, antrian trx dijalankan lagi,12/07/2020 17:59:47 Pesan ini berarti SMS status trx dari server tidak ada/ terlalu lama. Kode voucher yg digunakan untuk trx ini akan berhenti di status SMS\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/setting/tab-akun/",
+	"title": "Tab Akun",
+	"tags": [],
+	"description": "",
+	"content": "Penjelasan Nomor  IMEI Nomer HP XL PIN transaksi chip GPS Di isi oleh team support/ instalasi Auto input oleh program  Untuk nomer HP dan PIN akun, silahkan kontak sales/ dealer XL di area anda\n\r"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/sudah-menunggu-trx/",
+	"title": "Sudah Menunggu Trx",
+	"tags": [],
+	"description": "",
+	"content": "Bila tidak mendapat respon balasan selama +- 60 detik, proses timeout akan dijalankan, antrian transaksi akan dilanjutkan.\nTransaksi terakhir yang berjalan (yang kena timeout) akan mempunyai status SEDANG DIPROSES dan akan mendapat balasan TRX TERLALU LAMA\nAnda harus cek manual status laporan pulsa/ paket untuk nomor dan produk tersebut. Untuk proses ulang/ batalkan/ sukseskan buka tab TRX, klik kanan data yang akan diulang kemudian pilih aksi yang diinginkan. Trx tidak bisa ditembak ulang sebelum dibatalkan manual.\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-sms/",
+	"title": "Tab SMS",
+	"tags": [],
+	"description": "",
+	"content": " Pada tab ini, anda dapat mengetahui data SMS masuk (Inbox).\nData yang tampil adalah 33 data transaksi terakhir.\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/setting/tab-database/",
+	"title": "Tab Database",
+	"tags": [],
+	"description": "",
+	"content": "Konfigurasi tab ini akan dilakukan oleh team support/ instalasi\n\r"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/setting/",
+	"title": "Setting",
+	"tags": [],
+	"description": "",
+	"content": "Setting SETTING SiDompul   Tab XMPP   Tab Akun   Tab Database   Tab Transaksi   Tab Modem   "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/tidak-ada-sms-masuk/",
+	"title": "Tidak Ada SMS Masuk",
+	"tags": [],
+	"description": "",
+	"content": "Cek Tab Modem Log, klik Refresh, akan tampil keterangan status modem. Kemungkinan gangguan/ sinyal/ driver/ odbc/ gagal baca sms/ modem sibuk.\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-modem-log/",
+	"title": "Tab Modem Log",
+	"tags": [],
+	"description": "",
+	"content": " Pada tab ini anda dapat mencari status modem, apakah bekerja normal / gangguan.\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/setting/tab-transaksi/",
+	"title": "Tab Transaksi",
+	"tags": [],
+	"description": "",
+	"content": "Penjelasan Nomor  Pengaman transaksi dengan pesan sama. Pilihan batasan: 5 menit, 1 jam, 3 jam dan hari yang sama  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/ganti-pin/",
+	"title": "Ganti PIN",
+	"tags": [],
+	"description": "",
+	"content": "GANTI PIN via USSD: *103*PINLAMA*PINBARU# "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-tools/",
+	"title": "Tab Tools",
+	"tags": [],
+	"description": "",
+	"content": " #Tab Tools -\u0026gt; Produk  Pada tab ini anda dapat melakukan pengecekan saldo, profil dan produk:\n SALDO PROFIL XL#FLASH SALE XL XL#XTRA COMBO VIP XL#XTRA COMBO XL#HOTROD 24JAM XL#NELP \u0026amp; SMS XL#XTRA KUOTA XL#XL PASS XL#UMROH \u0026amp; HAJI XL#XTRA REJEKI XL#ROAMING COMBO AXIS#FLASH SALE AXIS AXIS#BRONET 24JAM AXIS#BRONET OWSEM AXIS#BB IRIT AXIS#KANGEN AXIS#KZL AXIS#MASA AKTIF PAKET  #Tab Tools -\u0026gt; Status  Pada tab ini anda dapat melakukan pengecekan:\n Package Info Cek Voucher Hybrid Cek Voucher PlayGo Cek Voucher XCL Voucher Cek Voucher SPWL Hybrid Cek Voucher AIGO  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/support/",
+	"title": "Support",
+	"tags": [],
+	"description": "",
+	"content": "Support Dan Pertanyaan  Silahkan chat langsung telegram kami: @opaltronik\nAtau telp: 081390390168 / 0274-2800430\n  Waktu layanan support: Senin s/d Minggu pada jam kerja. Waktu response support up to 2 hari (kecuali hari libur nasional). Jenis support: instalasi, informasi fitur dan produk, cara penggunaan.  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/",
+	"title": "Menu",
+	"tags": [],
+	"description": "",
+	"content": "Menu SiDompul Tampilan Menu SiDompul Detail Menu   Tab Log   Tab TRX   Tab SMS   Tab Modem Log   Tab Tools   Tab Riwayat   Tab Inbox   Tab Outbox   Tab Voucher   "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/setting/tab-modem/",
+	"title": "Tab Modem",
+	"tags": [],
+	"description": "",
+	"content": "Penjelasan Nomor  Posisi COM modem (bisa dilihat di menu Device Manager komputer) Speed Modem. Bila tidak tahu pasti, isikan dengan at115200 Folder Gammu binary (akan di isi oleh team support/ instalasi) Extra Setting Gammu. Konfigurasi khusus tergantung modem  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/cara-trx/",
+	"title": "Cara Transaksi",
+	"tags": [],
+	"description": "",
+	"content": "Cara Transaksi Format Transaksi dan Pesan Balasan   Format Transaksi   Pesan Balasan   Data inbox, outbox, trx disimpan maximal 3 hari. Tiap program berjalan pertama kali, akan melakukan maintenance hapus data yg lebih dari 3 hari.\n\r"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "SiDompul Fitur  Unlimited Account Sidompul, transaksi XL/ Axis Trx pulsa, paket dan transfer kuota voucher Bisa transaksi menggunakan kode voucher dari server/ menyimpan kode voucher di addon SiDompul Batasan harga maximal untuk trx pulsa dan paket Bisa trx nomor sama dalam 1 hari dengan trxid Trx via jabber / xmpp, tidak harus 1 komputer dengan server pulsa Pengaman batasan pesan sama, selama 5 menit, 1 jam, 3 jam dan hari yang sama Pencarian nomor di riwayat trx Pencarian harga paket, status package dan voucher   Transaksi pulsa, paket data dan transfer kuota voucher XL/ Axis menjadi automatis, cepat dan mudah.\n \r\rBeli Sekarang\r\r\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/logout-sidompul/",
+	"title": "Logout Sidompul",
+	"tags": [],
+	"description": "",
+	"content": "Logout: SMS ke 151 ketik SIDOMPUL \u0026lt;spasi\u0026gt; LOGOUT, atau USSD *151*4# melalui chip dompul "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-riwayat/",
+	"title": "Tab Riwayat",
+	"tags": [],
+	"description": "",
+	"content": " Pada tab ini anda dapat melihat riwayat transaksi pulsa dan paket. Anda juga dapat memfilter data sesuai:\n Tujuan Tanggal Serial Number Produk  Klik kanan untuk pilihan Copy dan Export Tabel (hasil export di simpan di folder exports)\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/multi-akun/",
+	"title": "Multi Akun",
+	"tags": [],
+	"description": "",
+	"content": "Multi Akun:  Paling mudah dengan menggunakan akun XMPP/ Jabber pengirim yg sama. Copy folder sidompul, kemudian paste dengan nama folder yg berbeda. Jalankan exe di folder yang baru. Masuk menu Setting. Pada tab XMPP, ganti akun pengirim. Kemudian pada tab AKUN, silahkan ganti ID (IMEI), nomer HP. Kemudian pada tab MODEM, sesuikan COM modem baru. Kemudian klik logout. Klik Simpan. Silahkan jalankan program sidompul yang baru. Silahkan sesuaikan target penerima di software pulsa anda.   Akun XMPP/ Jabber penerima harus berbeda tiap sidompul yang berjalan. Tidak bisa berbagi modem, tiap sidompul yang berjalan membutuhkan modem sendiri - sendiri.  \r"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-inbox/",
+	"title": "Tab Inbox",
+	"tags": [],
+	"description": "",
+	"content": " Pada tab ini, anda dapat melihat inbox dari server sidompul. Klik kanan untuk pilihan Refresh, Detail dan Export Tabel (hasil export di simpan di folder exports)\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-outbox/",
+	"title": "Tab Outbox XMPP",
+	"tags": [],
+	"description": "",
+	"content": " Pada tab ini, anda dapat mengetahui data pesan jabber/ XMPP yang dikirim ke akun jabber/XMPP pengirim (Outbox). Tersedia juga pilihan pencarian berdasarkan status dan keyword pesan.\nData yang tampil adalah 99 data transaksi terakhir.\n"
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/menu/tab-voucher/",
+	"title": "Tab Voucher",
+	"tags": [],
+	"description": "",
+	"content": " Untuk melakukan transfer kuota voucher, bisa dilakukan dengan 2 cara.\n Kode voucher di simpan di software pulsa, kemudian dikirim ke addon sebagai parameter pesan Kode voucher di simpan di addon. Ini sangat berguna bila software pulsa anda tidak ada manajemen kode voucher  Fungsi menu tab Voucher ini untuk nomer 2 diatas.\nPencarian Data Voucher  Besar Kuota Voucher. Pilihan: 3,5G, 4,5G, 6G, 8G, 11G, 15G, 21G, 25G, 31G, 37G. Tipe Voucher. Pilihan: Hybrid dan Biasa. Status Voucher. Pilihan: Ready, Proses, SMS, Error, Terjual. Nilai ini sesuai dengan alur proses trx transfer, yaitu :Ready -\u0026gt; Proses -\u0026gt; SMS -\u0026gt; Error/ Terjual.  Status Ready berarti siap untuk trx Saat trx tranfer kuota voucher, status akan berubah menjadi Proses, bila mendapat response OK dari server sidompul, maka status akan berubah menjadi SMS. Berarti menunggu info sukses/ error/ gagal dari SMS. Bila selama 1 menit belum mendapat SMS, maka status kode voucher berubah menjadi Error Begitu juga bila mendapat SMS kode voucher/ nomor HP salah, maka status kode voucher berubah menjadi Error Bila mendapat SMS transfer kuota sukses, maka status kode voucher berubah menjadi Terjual   Pencarian kode voucher. Rumus pencarian adalah nilai sama persis/ nilai dengan karakter depan yg sama. Contoh, kode voucher 123456, anda bisa melakukan pencarian dengan mengisikan 123456 atau 123 saja. Jangan lupa klik tombol Cari untuk proses pencarian.  Penambahan Data Voucher Penambahan Voucher. Anda bisa mengisi 10 voucher sekaligus (1 voucher = 1 baris). Format isian sebagai berikut:  Voucher Biasa: Kode-Voucher (per baris) Voucher Hybrid: Kode-Voucher.NO-HP (per baris)   Tipe Voucher yang akan ditambahkan Besar Kuota Voucher yang akan ditambahkan Tombol Simpan data  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/faq/",
+	"title": "FAQ",
+	"tags": [],
+	"description": "",
+	"content": "FAQ Frequently Asked Question   Cara mengganti akun jabber/ xmpp pengirim   Cara mengganti akun jabber/ xmpp penerima   Apa itu pesan log \u0026ldquo;sudah menunggu trx selama xx detik\u0026rdquo;   Tidak ada SMS hasil transaksi masuk   Ganti PIN   Logout Sidompul   Multi Akun   "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/changelog/",
+	"title": "Changelog",
+	"tags": [],
+	"description": "",
+	"content": "Versi 1.0.1 - Tambah kuota 10G, 18G, dan 55G Versi 1.0.0 - Update lisensi (backup lisensi lama sebelum upgrade) - Pindah posisi kolom produk di menu riwayat ke akhir tabel - Tambah menu export tabel riwayat dan inbox - Peningkatan performance dan stabilitas Versi 0.16.0 "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/tags/pesan-balasan/",
+	"title": "pesan balasan",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/tags/transaksi/",
+	"title": "transaksi",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/tags/format-transaksi/",
+	"title": "format transaksi",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/pembelian/",
+	"title": "Pembelian",
+	"tags": [],
+	"description": "",
+	"content": " Silahkan chat langsung telegram kami: @opaltronik\nAtau telp: 081390390168 / 0274-2800430\n  Setiap pembelian lisensi mendapatkan free update 1 tahun, selama masih dalam versi major yang sama. Apabila telah melampui masa support, dikenakan biaya per update. Waktu layanan support: Senin s/d Minggu pada jam kerja. Waktu response support up to 2 hari (kecuali hari libur nasional). Jenis support: instalasi, informasi fitur dan produk, cara penggunaan. Tidak melayani refund, barang yang sudah dibeli tidak dapat dikembalikan. 1 lisensi hanya dapat digunakan untuk 1 komputer. Komputer tersebut dapat menjalankan banyak program.  "
+},
+{
+	"uri": "https://masbro-software.github.io/sidompul/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

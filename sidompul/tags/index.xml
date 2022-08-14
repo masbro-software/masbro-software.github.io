@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SiDompul - Auto TRX</title>
+    <link>https://masbro-software.github.io/sidompul/tags/</link>
+    <description>Recent content in Tags on SiDompul - Auto TRX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 20:43:27 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/sidompul/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pesan balasan</title>
+      <link>https://masbro-software.github.io/sidompul/tags/pesan-balasan/</link>
+      <pubDate>Sun, 19 Apr 2020 20:43:27 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/tags/pesan-balasan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transaksi</title>
+      <link>https://masbro-software.github.io/sidompul/tags/transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 20:43:27 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/tags/transaksi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>format transaksi</title>
+      <link>https://masbro-software.github.io/sidompul/tags/format-transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 20:09:48 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/tags/format-transaksi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

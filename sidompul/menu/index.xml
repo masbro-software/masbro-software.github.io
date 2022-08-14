@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menu on SiDompul - Auto TRX</title>
+    <link>https://masbro-software.github.io/sidompul/menu/</link>
+    <description>Recent content in Menu on SiDompul - Auto TRX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 21:05:09 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/sidompul/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tab Log</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-log/</link>
+      <pubDate>Mon, 20 Apr 2020 17:55:14 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-log/</guid>
+      <description> Disini akan tampil log/ catatan proses dari program   </description>
+    </item>
+    
+    <item>
+      <title>Tab TRX</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-trx/</link>
+      <pubDate>Mon, 20 Apr 2020 17:59:32 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-trx/</guid>
+      <description>Pada tab ini, anda dapat mengetahui transaksi yang sedang berjalan/ telah selesai. Tersedia pilihan pencarian berdasarkan status transaksi dan pencarian berdasarkan keyword.
+Klik kanan pada baris tabel untuk pilihan menu:
+ copy, untuk menyalin nilai kotak tabel ke clipboard ulang, untuk proses ulang transaksi sukseskan, untuk mengubah status transaksi menjadi sukses gagalkan, untuk mengubah status transaksi menjadi gagal  Data yang tampil adalah 33 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab SMS</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-sms/</link>
+      <pubDate>Mon, 20 Apr 2020 18:14:41 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-sms/</guid>
+      <description>Pada tab ini, anda dapat mengetahui data SMS masuk (Inbox).
+Data yang tampil adalah 33 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab Modem Log</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-modem-log/</link>
+      <pubDate>Mon, 20 Apr 2020 18:41:03 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-modem-log/</guid>
+      <description>Pada tab ini anda dapat mencari status modem, apakah bekerja normal / gangguan.</description>
+    </item>
+    
+    <item>
+      <title>Tab Tools</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-tools/</link>
+      <pubDate>Mon, 20 Apr 2020 18:38:49 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-tools/</guid>
+      <description>#Tab Tools -&amp;gt; Produk  Pada tab ini anda dapat melakukan pengecekan saldo, profil dan produk:
+ SALDO PROFIL XL#FLASH SALE XL XL#XTRA COMBO VIP XL#XTRA COMBO XL#HOTROD 24JAM XL#NELP &amp;amp; SMS XL#XTRA KUOTA XL#XL PASS XL#UMROH &amp;amp; HAJI XL#XTRA REJEKI XL#ROAMING COMBO AXIS#FLASH SALE AXIS AXIS#BRONET 24JAM AXIS#BRONET OWSEM AXIS#BB IRIT AXIS#KANGEN AXIS#KZL AXIS#MASA AKTIF PAKET  #Tab Tools -&amp;gt; Status  Pada tab ini anda dapat melakukan pengecekan:</description>
+    </item>
+    
+    <item>
+      <title>Tab Riwayat</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-riwayat/</link>
+      <pubDate>Mon, 20 Apr 2020 18:31:53 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-riwayat/</guid>
+      <description>Pada tab ini anda dapat melihat riwayat transaksi pulsa dan paket. Anda juga dapat memfilter data sesuai:
+ Tujuan Tanggal Serial Number Produk  Klik kanan untuk pilihan Copy dan Export Tabel (hasil export di simpan di folder exports)</description>
+    </item>
+    
+    <item>
+      <title>Tab Inbox</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-inbox/</link>
+      <pubDate>Mon, 20 Apr 2020 18:33:59 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-inbox/</guid>
+      <description>Pada tab ini, anda dapat melihat inbox dari server sidompul. Klik kanan untuk pilihan Refresh, Detail dan Export Tabel (hasil export di simpan di folder exports)</description>
+    </item>
+    
+    <item>
+      <title>Tab Outbox XMPP</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-outbox/</link>
+      <pubDate>Mon, 20 Apr 2020 18:20:35 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-outbox/</guid>
+      <description>Pada tab ini, anda dapat mengetahui data pesan jabber/ XMPP yang dikirim ke akun jabber/XMPP pengirim (Outbox). Tersedia juga pilihan pencarian berdasarkan status dan keyword pesan.
+Data yang tampil adalah 99 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab Voucher</title>
+      <link>https://masbro-software.github.io/sidompul/menu/tab-voucher/</link>
+      <pubDate>Mon, 20 Apr 2020 18:36:39 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/menu/tab-voucher/</guid>
+      <description>Untuk melakukan transfer kuota voucher, bisa dilakukan dengan 2 cara.
+ Kode voucher di simpan di software pulsa, kemudian dikirim ke addon sebagai parameter pesan Kode voucher di simpan di addon. Ini sangat berguna bila software pulsa anda tidak ada manajemen kode voucher  Fungsi menu tab Voucher ini untuk nomer 2 diatas.
+Pencarian Data Voucher  Besar Kuota Voucher. Pilihan: 3,5G, 4,5G, 6G, 8G, 11G, 15G, 21G, 25G, 31G, 37G.</description>
+    </item>
+    
+  </channel>
+</rss>

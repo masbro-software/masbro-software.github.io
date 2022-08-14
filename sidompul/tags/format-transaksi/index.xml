@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>format transaksi on SiDompul - Auto TRX</title>
+    <link>https://masbro-software.github.io/sidompul/tags/format-transaksi/</link>
+    <description>Recent content in format transaksi on SiDompul - Auto TRX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 20:09:48 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/sidompul/tags/format-transaksi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Format Transaksi</title>
+      <link>https://masbro-software.github.io/sidompul/cara-trx/format-transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 20:09:48 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/sidompul/cara-trx/format-transaksi/</guid>
+      <description>Transaksi Pulsa Format transaksi: pulsa#DENOM.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:
+pulsa#5000.08111111@123 pulsa#1000.08111111 pulsa#25000.08111111 pulsa#5000.08111111@123.5200 Contoh untuk otomax: pulsa#50000.[tujuan]@[trxid].
+Transaksi Paket Data Format transaksi: paket#KODE-PRODUK.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:
+paket#NA571.08111111 paket#NBR1.08111111 paket#NBR1.08111111@1234.20000 Contoh untuk otomax: paket#KODE-PRODUK.[tujuan]@[trxid]. Default status adalah Sukses (trx ini masih menunggu respons balasan dari server, cek SMS/ Inbox untuk detail status trx)
+Darimana asal KODE-PRODUK ? Cek melalui menu Tab Tools -&amp;gt; Produk, bagian product_code.</description>
+    </item>
+    
+  </channel>
+</rss>
