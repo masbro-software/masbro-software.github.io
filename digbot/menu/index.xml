@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menu on DIGBOT - Software TRX DIGIPOS</title>
+    <link>https://masbro-software.github.io/digbot/menu/</link>
+    <description>Recent content in Menu on DIGBOT - Software TRX DIGIPOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 21:05:09 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/digbot/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tab Log</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-log/</link>
+      <pubDate>Mon, 20 Apr 2020 17:55:14 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-log/</guid>
+      <description> Disini akan tampil log/ catatan proses dari software digbot   </description>
+    </item>
+    
+    <item>
+      <title>Tab TRX</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-trx/</link>
+      <pubDate>Mon, 20 Apr 2020 17:59:32 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-trx/</guid>
+      <description>Pada tab ini, anda dapat mengetahui transaksi yang sedang berjalan/ telah selesai. Tersedia pilihan pencarian berdasarkan status transaksi dan pencarian berdasarkan keyword.
+Klik kanan pada baris tabel untuk pilihan menu:
+ copy, untuk menyalin nilai kotak tabel ke clipboard ulang, untuk proses ulang transaksi cek, untuk cek data transaksi tersebut ke server digipos sukseskan, untuk mengubah status transaksi menjadi sukses gagalkan, untuk mengubah status transaksi menjadi gagal  Data yang tampil adalah 33 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab SMS</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-sms/</link>
+      <pubDate>Mon, 20 Apr 2020 18:14:41 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-sms/</guid>
+      <description>Pada tab ini, anda dapat mengetahui data SMS masuk (Inbox).
+Data yang tampil adalah 33 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab Outbox</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-outbox/</link>
+      <pubDate>Mon, 20 Apr 2020 18:20:35 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-outbox/</guid>
+      <description>Pada tab ini, anda dapat mengetahui data pesan jabber/ XMPP yang dikirim ke akun jabber/XMPP pengirim (Outbox). Tersedia juga pilihan pencarian berdasarkan status dan keyword pesan.
+Data yang tampil adalah 99 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab Pencarian</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-pencarian/</link>
+      <pubDate>Mon, 20 Apr 2020 18:24:51 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-pencarian/</guid>
+      <description>Pada tab ini anda dapat mencari harga paket berdasarkan NO HP.
+Setelah hasil pencarian tampil di jendela kanan, klik tombol SIMPAN PRODUK supaya kode tersebut bisa digunakan untuk transaksi. Bila tidak di simpan, maka kode produk hasil pencarian tidak dapat digunakan untuk transaksi.</description>
+    </item>
+    
+    <item>
+      <title>Tab Produk</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-produk/</link>
+      <pubDate>Mon, 20 Apr 2020 18:31:53 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-produk/</guid>
+      <description>Disini akan tampil kode produk paket yang bisa digunakan untuk transaksi. Klik kanan pada baris tabel untuk pilihan copy atau hapus</description>
+    </item>
+    
+    <item>
+      <title>Tab Laporan Pulsa</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-laporan-pulsa/</link>
+      <pubDate>Mon, 20 Apr 2020 18:33:59 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-laporan-pulsa/</guid>
+      <description>Pada tab ini, anda dapat melihat laporan transaksi pulsa dari server digipos. Terdapat pilihan pencarian tanggal awal dan tanggal akhir. Setelah hasil pencarian keluar, anda bisa menggunakan pencarian berdasarkan MSISDN.
+Klik kanan pada baris tabel untuk pilihan menu copy.
+Waktu yang tampil adalah waktu server digipos (+7 GMT/ WIB)</description>
+    </item>
+    
+    <item>
+      <title>Tab Laporan Paket</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-laporan-paket/</link>
+      <pubDate>Mon, 20 Apr 2020 18:36:39 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-laporan-paket/</guid>
+      <description>Pada tab ini, anda dapat melihat laporan transaksi paket dari server digipos. Terdapat pilihan pencarian tanggal awal dan tanggal akhir. Setelah hasil pencarian keluar, anda bisa menggunakan pencarian berdasarkan MSISDN.
+Klik kanan pada baris tabel untuk pilihan menu copy.
+Waktu yang tampil adalah waktu server digipos (+7 GMT/ WIB)</description>
+    </item>
+    
+    <item>
+      <title>Tab Pembayaran</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-pembayaran/</link>
+      <pubDate>Mon, 20 Apr 2020 18:38:49 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-pembayaran/</guid>
+      <description>Pada tab ini, anda dapat mengganti metode pembayaran LINK AJA atau NGRS. Anda dapat juga mencari nilai saldo terakhir dengan klik tombol CEK SALDO</description>
+    </item>
+    
+    <item>
+      <title>Tab Modem Log</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-modem-log/</link>
+      <pubDate>Mon, 20 Apr 2020 18:41:03 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-modem-log/</guid>
+      <description>Pada tab ini anda dapat mencari status modem, apakah bekerja normal / gangguan. Bila anda tidak menggunakan modem di Menu Setting, data modem log akan kosong.</description>
+    </item>
+    
+  </channel>
+</rss>

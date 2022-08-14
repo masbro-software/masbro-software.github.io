@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on DIGBOT - Software TRX DIGIPOS</title>
+    <link>https://masbro-software.github.io/digbot/faq/</link>
+    <description>Recent content in FAQ on DIGBOT - Software TRX DIGIPOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 20:57:49 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/digbot/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Ganti Akun Pengirim</title>
+      <link>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-pengirim/</link>
+      <pubDate>Mon, 20 Apr 2020 18:47:12 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-pengirim/</guid>
+      <description>1. Buka menu SETTING (pastikan proses TRX tidak kondisi berjalan). Buka tab UMUM 2. Ganti dengan akun pengirim baru pada nomor 2  3. Klik tombol SIMPAN 4. Buka PIDGIN, kemudian buka menu Tools -&amp;gt; Plugins  5. Pilih menu __XMPP Gateway__digipos-v2 sesuai gambar:  6. Klik tombol Configure di sebelah bawah jendela:  7. Ganti dengan akun pengirim yang baru:  8. Klik tombol Close Pastikan kedua akun penerima dan pengirim sudah menjadi teman/ Friend.</description>
+    </item>
+    
+    <item>
+      <title>Cara Ganti Akun Penerima</title>
+      <link>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-penerima/</link>
+      <pubDate>Mon, 20 Apr 2020 19:03:10 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-penerima/</guid>
+      <description>1. Buka menu SETTING (pastikan proses TRX tidak kondisi berjalan). Buka tab UMUM 2. Ganti dengan akun penerima baru pada nomor 1  3. Klik tombol SIMPAN 4. Buka PIDGIN, kemudian buka menu Accounts -&amp;gt; Manage Accounts  5. Bila akun jabber/ XMPP sudah pernah login di PIDGIN, silahkan centang akun penerima yang baru, kemudian klik Close  6. Bila akun jabber/ XMPP belum ada di PIDGIN, klik menu Add 7.</description>
+    </item>
+    
+    <item>
+      <title>Sudah Menunggu Trx</title>
+      <link>https://masbro-software.github.io/digbot/faq/sudah-menunggu-trx/</link>
+      <pubDate>Mon, 20 Apr 2020 19:19:54 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/sudah-menunggu-trx/</guid>
+      <description>Pada tab LOG, bila terdapat tulisan sudah menunggu trx selama xx detik, itu berarti software sedang menunggu respon balasan dari server digipos untuk transaksi yang sedang berlangsung. Bila tidak mendapat respon balasan selama +- 60 detik, proses timeout akan dijalankan, antrian transaksi akan dilanjutkan.
+Transaksi terakhir yang berjalan (yang kena timeout) akan mempunyai status SEDANG DIPROSES dan akan mendapat balasan TRX TERLALU LAMA
+Anda harus cek manual status laporan pulsa/ paket untuk nomor dan produk tersebut.</description>
+    </item>
+    
+    <item>
+      <title>Tidak Ada Balasan TRX Gagal</title>
+      <link>https://masbro-software.github.io/digbot/faq/tidak-ada-balasan-trx-gagal/</link>
+      <pubDate>Mon, 20 Apr 2020 19:39:24 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/tidak-ada-balasan-trx-gagal/</guid>
+      <description>Cek menu Setting, tab UMUM, pastikan point nomor 7 (Auto Cek Gagal) tercentang.</description>
+    </item>
+    
+    <item>
+      <title>Tidak Ada SMS Masuk</title>
+      <link>https://masbro-software.github.io/digbot/faq/tidak-ada-sms-masuk/</link>
+      <pubDate>Mon, 20 Apr 2020 19:35:42 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/tidak-ada-sms-masuk/</guid>
+      <description>Cek Tab Modem Log, klik Refresh, akan tampil keterangan status modem. Kemungkinan gangguan/ sinyal/ driver/ odbc/ gagal baca sms/ modem sibuk.</description>
+    </item>
+    
+  </channel>
+</rss>

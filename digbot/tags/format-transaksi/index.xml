@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>format transaksi on DIGBOT - Software TRX DIGIPOS</title>
+    <link>https://masbro-software.github.io/digbot/tags/format-transaksi/</link>
+    <description>Recent content in format transaksi on DIGBOT - Software TRX DIGIPOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 20:09:48 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/digbot/tags/format-transaksi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Format Transaksi</title>
+      <link>https://masbro-software.github.io/digbot/cara-trx/format-transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 20:09:48 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/cara-trx/format-transaksi/</guid>
+      <description>Transaksi Pulsa BULK &amp;amp; FIX Format transaksi: pulsa-bulk#DENOM.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:
+pulsa-bulk#50000.081111 pulsa-bulk#100000.081222.101000 pulsa-bulk#50000.081111@1234 pulsa-bulk#100000.081222@1234.101000 pulsa-fix#50000.081111 pulsa-fix#100000.081222.101000 pulsa-fix#50000.081111@1234 pulsa-fix#100000.081222@1234.101000 # TRX pulsa fix dengan saldo NGRS tidak menggunakan MAX-HARGA Contoh untuk otomax: pulsa-bulk#50000.[tujuan]@[trxid] dan pulsa-fix#50000.[tujuan]@[trxid]
+Transaksi Paket Data Format transaksi: paket#KODE-PRODUK.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:
+paket#00011695.081111 paket#00011695.081111.20000 paket#00011695.081111@1234.20000 Contoh untuk otomax: paket#KODE-PRODUK.[tujuan]@[trxid].
+Darimana asal KODE-PRODUK ? anda harus proses dan simpan kode produk sesuai area, melalui menu Tab Pencarian.</description>
+    </item>
+    
+  </channel>
+</rss>

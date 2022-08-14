@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pesan balasan on DIGBOT - Software TRX DIGIPOS</title>
+    <link>https://masbro-software.github.io/digbot/tags/pesan-balasan/</link>
+    <description>Recent content in pesan balasan on DIGBOT - Software TRX DIGIPOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 20:43:27 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/digbot/tags/pesan-balasan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pesan Balasan</title>
+      <link>https://masbro-software.github.io/digbot/cara-trx/pesan-balasan/</link>
+      <pubDate>Sun, 19 Apr 2020 20:43:27 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/cara-trx/pesan-balasan/</guid>
+      <description>Pesan Balasan Sedang Di Proses (tidak bisa diulang) Pesan pulsa-bulk#1000.08139XXXXXX.1400 sedang diproses. RefID:156,10/04/2020 21:23:54 TRX paket#00011695.082XXX.22750 sudah pernah terjadi jam 09/04/2020 9:40:15. RefID:16576. Status: SEDANG DI PROSES,09/04/2020 9:50:01 Pesan Balasan Sukses (tidak bisa diulang) Trx refID:156, pulsa-bulk#1000.08139XXXXXX.1400 SUKSES, trxNo:196899829690390168XXXXXXXXXX,10/04/2020 21:24:06 Trx paket#00022815.08139XXXXXX.45 SUKSES MANUAL, RefID: 161,21/04/2020 14:40:57 Pesan Balasan Gagal (bisa diulang) Trx refID:55615, paket#00021163.08139XXXXXX.70450 GAGAL. Balance insufficient., trxNo:,19/04/2020 7:06:39 Trx RefID:153, pulsa-bulk#1000.08139XXXXXX.100, GAGAL, balasan: Ada msisdn dan produk sama sedang dalam antrian, silahkan coba lagi nanti Trx refID:57737, paket#00021163.</description>
+    </item>
+    
+  </channel>
+</rss>

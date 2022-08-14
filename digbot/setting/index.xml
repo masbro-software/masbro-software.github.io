@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setting on DIGBOT - Software TRX DIGIPOS</title>
+    <link>https://masbro-software.github.io/digbot/setting/</link>
+    <description>Recent content in Setting on DIGBOT - Software TRX DIGIPOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 19:06:18 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/digbot/setting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tab Umum</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-umum/</link>
+      <pubDate>Sun, 19 Apr 2020 19:30:51 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-umum/</guid>
+      <description>Penjelasan Nomor  Akun Jabber/ XMPP penerima (yang login di komputer terinstall digbot) Akun Jabber/ XMPP pengirim (yang login di software pulsa/ server) User akun digipos Password akun digipos PIN transaksi IMEI Centang bila ingin mendapat laporan kalau trx gagal  Untuk username dan password akun digipos silahkan kontak sales/ dealer digipos telkomsel di area anda
+</description>
+    </item>
+    
+    <item>
+      <title>Tab Database</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-database/</link>
+      <pubDate>Sun, 19 Apr 2020 19:44:52 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-database/</guid>
+      <description>Konfigurasi tab ini akan dilakukan oleh team support/ instalasi
+</description>
+    </item>
+    
+    <item>
+      <title>Tab Transaksi</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 19:49:56 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-transaksi/</guid>
+      <description>Penjelasan Nomor  Pengaman transaksi dengan pesan sama. Pilihan batasan: 5 menit, 1 jam, 3 jam, 6 jam dan hari yang sama Node binary (akan di isi oleh team support/ instalasi) Setting automatis cek laporan transaksi pulsa/ paket di server digipos.   Bila nomor 3 dipilih TIDAK, maka:
+ Addon tidak akan mengecek status transaksi, yang berakibat status transaksi di TAB TRX akan selalu menjadi PROSES. Transaksi yang dalam status PROSES tidak bisa diulang lewat pengiriman pesan lagi.</description>
+    </item>
+    
+    <item>
+      <title>Tab Modem</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-modem/</link>
+      <pubDate>Sun, 19 Apr 2020 19:49:56 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-modem/</guid>
+      <description>Penjelasan Nomor  Setting aktif/ non aktif penggunaan modem. Bila aktif, SMS dari digipos akan dikirimkan via jabber/ xmpp Posisi COM modem (bisa dilihat di menu Device Manager komputer) Speed Modem. Bila tidak tahu pasti, isikan dengan at115200 Folder Gammu binary (akan di isi oleh team support/ instalasi) Extra Setting Gammu. Konfigurasi khusus tergantung modem Extra Setting Daemon. Konfigurasi khusus tergantung modem  </description>
+    </item>
+    
+    <item>
+      <title>Tab SMS</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-sms/</link>
+      <pubDate>Sun, 19 Apr 2020 19:49:56 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-sms/</guid>
+      <description>Penjelasan Nomor  Setting aktif/ non aktif pengulangan pengiriman SMS Berapa SMS yang harus dikirim ulang laporannya Banyak pengulangan pengiriman laporan SMS  Gunakan fitur ini bila software server pulsa anda tidak mengenali balasan SMS dari digipos karena urutan SMS yang datang.
+</description>
+    </item>
+    
+  </channel>
+</rss>

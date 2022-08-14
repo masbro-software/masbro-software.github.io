@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIGBOT - Software TRX DIGIPOS</title>
+    <link>https://masbro-software.github.io/digbot/</link>
+    <description>Recent content on DIGBOT - Software TRX DIGIPOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 17:54:59 +0700</lastBuildDate><atom:link href="https://masbro-software.github.io/digbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Ganti Akun Pengirim</title>
+      <link>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-pengirim/</link>
+      <pubDate>Mon, 20 Apr 2020 18:47:12 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-pengirim/</guid>
+      <description>1. Buka menu SETTING (pastikan proses TRX tidak kondisi berjalan). Buka tab UMUM 2. Ganti dengan akun pengirim baru pada nomor 2  3. Klik tombol SIMPAN 4. Buka PIDGIN, kemudian buka menu Tools -&amp;gt; Plugins  5. Pilih menu __XMPP Gateway__digipos-v2 sesuai gambar:  6. Klik tombol Configure di sebelah bawah jendela:  7. Ganti dengan akun pengirim yang baru:  8. Klik tombol Close Pastikan kedua akun penerima dan pengirim sudah menjadi teman/ Friend.</description>
+    </item>
+    
+    <item>
+      <title>Tab Log</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-log/</link>
+      <pubDate>Mon, 20 Apr 2020 17:55:14 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-log/</guid>
+      <description> Disini akan tampil log/ catatan proses dari software digbot   </description>
+    </item>
+    
+    <item>
+      <title>Format Transaksi</title>
+      <link>https://masbro-software.github.io/digbot/cara-trx/format-transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 20:09:48 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/cara-trx/format-transaksi/</guid>
+      <description>Transaksi Pulsa BULK &amp;amp; FIX Format transaksi: pulsa-bulk#DENOM.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:
+pulsa-bulk#50000.081111 pulsa-bulk#100000.081222.101000 pulsa-bulk#50000.081111@1234 pulsa-bulk#100000.081222@1234.101000 pulsa-fix#50000.081111 pulsa-fix#100000.081222.101000 pulsa-fix#50000.081111@1234 pulsa-fix#100000.081222@1234.101000 # TRX pulsa fix dengan saldo NGRS tidak menggunakan MAX-HARGA Contoh untuk otomax: pulsa-bulk#50000.[tujuan]@[trxid] dan pulsa-fix#50000.[tujuan]@[trxid]
+Transaksi Paket Data Format transaksi: paket#KODE-PRODUK.NO-HP@TRX-ID.MAX-HARGA. Nilai TRX-ID dan MAX-HARGA bisa tidak digunakan, Contoh:
+paket#00011695.081111 paket#00011695.081111.20000 paket#00011695.081111@1234.20000 Contoh untuk otomax: paket#KODE-PRODUK.[tujuan]@[trxid].
+Darimana asal KODE-PRODUK ? anda harus proses dan simpan kode produk sesuai area, melalui menu Tab Pencarian.</description>
+    </item>
+    
+    <item>
+      <title>Tab Umum</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-umum/</link>
+      <pubDate>Sun, 19 Apr 2020 19:30:51 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-umum/</guid>
+      <description>Penjelasan Nomor  Akun Jabber/ XMPP penerima (yang login di komputer terinstall digbot) Akun Jabber/ XMPP pengirim (yang login di software pulsa/ server) User akun digipos Password akun digipos PIN transaksi IMEI Centang bila ingin mendapat laporan kalau trx gagal  Untuk username dan password akun digipos silahkan kontak sales/ dealer digipos telkomsel di area anda
+</description>
+    </item>
+    
+    <item>
+      <title>Cara Ganti Akun Penerima</title>
+      <link>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-penerima/</link>
+      <pubDate>Mon, 20 Apr 2020 19:03:10 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/cara-ganti-akun-penerima/</guid>
+      <description>1. Buka menu SETTING (pastikan proses TRX tidak kondisi berjalan). Buka tab UMUM 2. Ganti dengan akun penerima baru pada nomor 1  3. Klik tombol SIMPAN 4. Buka PIDGIN, kemudian buka menu Accounts -&amp;gt; Manage Accounts  5. Bila akun jabber/ XMPP sudah pernah login di PIDGIN, silahkan centang akun penerima yang baru, kemudian klik Close  6. Bila akun jabber/ XMPP belum ada di PIDGIN, klik menu Add 7.</description>
+    </item>
+    
+    <item>
+      <title>Tab TRX</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-trx/</link>
+      <pubDate>Mon, 20 Apr 2020 17:59:32 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-trx/</guid>
+      <description>Pada tab ini, anda dapat mengetahui transaksi yang sedang berjalan/ telah selesai. Tersedia pilihan pencarian berdasarkan status transaksi dan pencarian berdasarkan keyword.
+Klik kanan pada baris tabel untuk pilihan menu:
+ copy, untuk menyalin nilai kotak tabel ke clipboard ulang, untuk proses ulang transaksi cek, untuk cek data transaksi tersebut ke server digipos sukseskan, untuk mengubah status transaksi menjadi sukses gagalkan, untuk mengubah status transaksi menjadi gagal  Data yang tampil adalah 33 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Pesan Balasan</title>
+      <link>https://masbro-software.github.io/digbot/cara-trx/pesan-balasan/</link>
+      <pubDate>Sun, 19 Apr 2020 20:43:27 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/cara-trx/pesan-balasan/</guid>
+      <description>Pesan Balasan Sedang Di Proses (tidak bisa diulang) Pesan pulsa-bulk#1000.08139XXXXXX.1400 sedang diproses. RefID:156,10/04/2020 21:23:54 TRX paket#00011695.082XXX.22750 sudah pernah terjadi jam 09/04/2020 9:40:15. RefID:16576. Status: SEDANG DI PROSES,09/04/2020 9:50:01 Pesan Balasan Sukses (tidak bisa diulang) Trx refID:156, pulsa-bulk#1000.08139XXXXXX.1400 SUKSES, trxNo:196899829690390168XXXXXXXXXX,10/04/2020 21:24:06 Trx paket#00022815.08139XXXXXX.45 SUKSES MANUAL, RefID: 161,21/04/2020 14:40:57 Pesan Balasan Gagal (bisa diulang) Trx refID:55615, paket#00021163.08139XXXXXX.70450 GAGAL. Balance insufficient., trxNo:,19/04/2020 7:06:39 Trx RefID:153, pulsa-bulk#1000.08139XXXXXX.100, GAGAL, balasan: Ada msisdn dan produk sama sedang dalam antrian, silahkan coba lagi nanti Trx refID:57737, paket#00021163.</description>
+    </item>
+    
+    <item>
+      <title>Tab Database</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-database/</link>
+      <pubDate>Sun, 19 Apr 2020 19:44:52 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-database/</guid>
+      <description>Konfigurasi tab ini akan dilakukan oleh team support/ instalasi
+</description>
+    </item>
+    
+    <item>
+      <title>Sudah Menunggu Trx</title>
+      <link>https://masbro-software.github.io/digbot/faq/sudah-menunggu-trx/</link>
+      <pubDate>Mon, 20 Apr 2020 19:19:54 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/sudah-menunggu-trx/</guid>
+      <description>Pada tab LOG, bila terdapat tulisan sudah menunggu trx selama xx detik, itu berarti software sedang menunggu respon balasan dari server digipos untuk transaksi yang sedang berlangsung. Bila tidak mendapat respon balasan selama +- 60 detik, proses timeout akan dijalankan, antrian transaksi akan dilanjutkan.
+Transaksi terakhir yang berjalan (yang kena timeout) akan mempunyai status SEDANG DIPROSES dan akan mendapat balasan TRX TERLALU LAMA
+Anda harus cek manual status laporan pulsa/ paket untuk nomor dan produk tersebut.</description>
+    </item>
+    
+    <item>
+      <title>Tab SMS</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-sms/</link>
+      <pubDate>Mon, 20 Apr 2020 18:14:41 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-sms/</guid>
+      <description>Pada tab ini, anda dapat mengetahui data SMS masuk (Inbox).
+Data yang tampil adalah 33 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab Transaksi</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-transaksi/</link>
+      <pubDate>Sun, 19 Apr 2020 19:49:56 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-transaksi/</guid>
+      <description>Penjelasan Nomor  Pengaman transaksi dengan pesan sama. Pilihan batasan: 5 menit, 1 jam, 3 jam, 6 jam dan hari yang sama Node binary (akan di isi oleh team support/ instalasi) Setting automatis cek laporan transaksi pulsa/ paket di server digipos.   Bila nomor 3 dipilih TIDAK, maka:
+ Addon tidak akan mengecek status transaksi, yang berakibat status transaksi di TAB TRX akan selalu menjadi PROSES. Transaksi yang dalam status PROSES tidak bisa diulang lewat pengiriman pesan lagi.</description>
+    </item>
+    
+    <item>
+      <title>Tidak Ada Balasan TRX Gagal</title>
+      <link>https://masbro-software.github.io/digbot/faq/tidak-ada-balasan-trx-gagal/</link>
+      <pubDate>Mon, 20 Apr 2020 19:39:24 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/tidak-ada-balasan-trx-gagal/</guid>
+      <description>Cek menu Setting, tab UMUM, pastikan point nomor 7 (Auto Cek Gagal) tercentang.</description>
+    </item>
+    
+    <item>
+      <title>Tidak Ada SMS Masuk</title>
+      <link>https://masbro-software.github.io/digbot/faq/tidak-ada-sms-masuk/</link>
+      <pubDate>Mon, 20 Apr 2020 19:35:42 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/faq/tidak-ada-sms-masuk/</guid>
+      <description>Cek Tab Modem Log, klik Refresh, akan tampil keterangan status modem. Kemungkinan gangguan/ sinyal/ driver/ odbc/ gagal baca sms/ modem sibuk.</description>
+    </item>
+    
+    <item>
+      <title>Tab Outbox</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-outbox/</link>
+      <pubDate>Mon, 20 Apr 2020 18:20:35 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-outbox/</guid>
+      <description>Pada tab ini, anda dapat mengetahui data pesan jabber/ XMPP yang dikirim ke akun jabber/XMPP pengirim (Outbox). Tersedia juga pilihan pencarian berdasarkan status dan keyword pesan.
+Data yang tampil adalah 99 data transaksi terakhir.</description>
+    </item>
+    
+    <item>
+      <title>Tab Modem</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-modem/</link>
+      <pubDate>Sun, 19 Apr 2020 19:49:56 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-modem/</guid>
+      <description>Penjelasan Nomor  Setting aktif/ non aktif penggunaan modem. Bila aktif, SMS dari digipos akan dikirimkan via jabber/ xmpp Posisi COM modem (bisa dilihat di menu Device Manager komputer) Speed Modem. Bila tidak tahu pasti, isikan dengan at115200 Folder Gammu binary (akan di isi oleh team support/ instalasi) Extra Setting Gammu. Konfigurasi khusus tergantung modem Extra Setting Daemon. Konfigurasi khusus tergantung modem  </description>
+    </item>
+    
+    <item>
+      <title>Tab Pencarian</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-pencarian/</link>
+      <pubDate>Mon, 20 Apr 2020 18:24:51 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-pencarian/</guid>
+      <description>Pada tab ini anda dapat mencari harga paket berdasarkan NO HP.
+Setelah hasil pencarian tampil di jendela kanan, klik tombol SIMPAN PRODUK supaya kode tersebut bisa digunakan untuk transaksi. Bila tidak di simpan, maka kode produk hasil pencarian tidak dapat digunakan untuk transaksi.</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://masbro-software.github.io/digbot/support/</link>
+      <pubDate>Sun, 19 Apr 2020 21:13:31 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/support/</guid>
+      <description>Support Dan Pertanyaan  Silahkan chat langsung telegram kami: @opaltronik
+Atau telp: 081390390168 / 0274-2800430
+  Waktu layanan support: Senin s/d Minggu pada jam kerja. Waktu response support up to 2 hari (kecuali hari libur nasional). Jenis support: instalasi, informasi fitur dan produk, cara penggunaan.  </description>
+    </item>
+    
+    <item>
+      <title>Tab SMS</title>
+      <link>https://masbro-software.github.io/digbot/setting/tab-sms/</link>
+      <pubDate>Sun, 19 Apr 2020 19:49:56 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/setting/tab-sms/</guid>
+      <description>Penjelasan Nomor  Setting aktif/ non aktif pengulangan pengiriman SMS Berapa SMS yang harus dikirim ulang laporannya Banyak pengulangan pengiriman laporan SMS  Gunakan fitur ini bila software server pulsa anda tidak mengenali balasan SMS dari digipos karena urutan SMS yang datang.
+</description>
+    </item>
+    
+    <item>
+      <title>Tab Produk</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-produk/</link>
+      <pubDate>Mon, 20 Apr 2020 18:31:53 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-produk/</guid>
+      <description>Disini akan tampil kode produk paket yang bisa digunakan untuk transaksi. Klik kanan pada baris tabel untuk pilihan copy atau hapus</description>
+    </item>
+    
+    <item>
+      <title>Tab Laporan Pulsa</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-laporan-pulsa/</link>
+      <pubDate>Mon, 20 Apr 2020 18:33:59 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-laporan-pulsa/</guid>
+      <description>Pada tab ini, anda dapat melihat laporan transaksi pulsa dari server digipos. Terdapat pilihan pencarian tanggal awal dan tanggal akhir. Setelah hasil pencarian keluar, anda bisa menggunakan pencarian berdasarkan MSISDN.
+Klik kanan pada baris tabel untuk pilihan menu copy.
+Waktu yang tampil adalah waktu server digipos (+7 GMT/ WIB)</description>
+    </item>
+    
+    <item>
+      <title>Tab Laporan Paket</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-laporan-paket/</link>
+      <pubDate>Mon, 20 Apr 2020 18:36:39 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-laporan-paket/</guid>
+      <description>Pada tab ini, anda dapat melihat laporan transaksi paket dari server digipos. Terdapat pilihan pencarian tanggal awal dan tanggal akhir. Setelah hasil pencarian keluar, anda bisa menggunakan pencarian berdasarkan MSISDN.
+Klik kanan pada baris tabel untuk pilihan menu copy.
+Waktu yang tampil adalah waktu server digipos (+7 GMT/ WIB)</description>
+    </item>
+    
+    <item>
+      <title>Tab Pembayaran</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-pembayaran/</link>
+      <pubDate>Mon, 20 Apr 2020 18:38:49 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-pembayaran/</guid>
+      <description>Pada tab ini, anda dapat mengganti metode pembayaran LINK AJA atau NGRS. Anda dapat juga mencari nilai saldo terakhir dengan klik tombol CEK SALDO</description>
+    </item>
+    
+    <item>
+      <title>Tab Modem Log</title>
+      <link>https://masbro-software.github.io/digbot/menu/tab-modem-log/</link>
+      <pubDate>Mon, 20 Apr 2020 18:41:03 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/menu/tab-modem-log/</guid>
+      <description>Pada tab ini anda dapat mencari status modem, apakah bekerja normal / gangguan. Bila anda tidak menggunakan modem di Menu Setting, data modem log akan kosong.</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>https://masbro-software.github.io/digbot/changelog/</link>
+      <pubDate>Mon, 20 Apr 2020 05:15:58 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/changelog/</guid>
+      <description>Versi 1.1.1  Fix bug random error force close waktu app dimatikan.  Versi 1.1.0  Update code untuk performa dan stabilitas  Versi 1.0.1  Hilangkan auto cek saldo NGRS  Versi 1.0.0  Stable Release  </description>
+    </item>
+    
+    <item>
+      <title>Pembelian</title>
+      <link>https://masbro-software.github.io/digbot/pembelian/</link>
+      <pubDate>Sun, 19 Apr 2020 18:52:03 +0700</pubDate>
+      
+      <guid>https://masbro-software.github.io/digbot/pembelian/</guid>
+      <description>Silahkan chat langsung telegram kami: @opaltronik
+Atau telp: 081390390168 / 0274-2800430
+  Setiap pembelian lisensi mendapatkan free update 1 tahun, selama masih dalam versi major yang sama. Apabila telah melampui masa support, dikenakan biaya per update. Waktu layanan support: Senin s/d Minggu pada jam kerja. Waktu response support up to 2 hari (kecuali hari libur nasional). Jenis support: instalasi, informasi fitur dan produk, cara penggunaan. Tidak melayani refund, barang yang sudah dibeli tidak dapat dikembalikan.</description>
+    </item>
+    
+  </channel>
+</rss>
